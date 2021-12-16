@@ -1,0 +1,147 @@
+/*Ethan Winspear 12/16/21*/
+.bigheading {
+    font-size: 0 rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    text-align: center;
+}
+
+.smallheading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    color: azure;
+    text-align: center;
+}
+
+.lowerheading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 179, 179);
+}
+.lowerpreview {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+    color: rgb(77, 77, 77);
+}
+.a:hover {
+    color: mediumturquoise;
+}
+
+.footertext {
+    font-size: .5rem;
+}
+
+.bulletone {
+    font-style: italic;
+    font-size: 1.15rem;
+}
+
+.bullettwo {
+    font-size: 1.05rem;
+}
+
+.footer {
+    font-size: .90rem;
+}
+
+.lowertitle {
+    font-size: 1.90rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 179, 179);
+    font-weight: bold
+}
+
+.image {
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    
+}
+
+/* Tableau */
+
+.title {
+    
+    text-align: center;
+    margin-top: -5px;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: rgb(0, 179, 179);
+    
+}
+
+.links {
+    margin-top: 20px;
+    text-align: right;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: dimgray;
+    
+}
+
+a:visited {
+    color: dimgray;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+
+
+body {
+    background-color: floralwhite;
+}
+
+.parts1 {
+    
+    margin-top: 10px;
+}
+
+.description {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+
+.bookmarks {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.descrspace {
+    margin: 5px;
+}
+
+.return {
+    padding-left: 50px;
+    
+
+}
+
+.tableau{
+    padding-left: 250px;
+}
+
+.common{
+    position: absolute;
+}
+
+.footer2{
+    bottom: 30px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: thistle;
+    text-align: center;
+    position: fixed;
+
+}
